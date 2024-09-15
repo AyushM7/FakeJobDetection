@@ -2,6 +2,13 @@
 
 This project aims to detect fraudulent job postings using machine learning models. The goal is to analyze job posting data and develop a predictive model that can distinguish between real and fake job advertisements.
 
+## Team Members
+- Nihanth Attaluri
+- Ritvik Thota
+- Siddarth Sharmaa
+- Jovita Jijo
+- Ayush Mendhe
+
 ## Project Structure
 
 - **`FakeJobPrediction.ipynb`**: Jupyter Notebook containing the data analysis, preprocessing, and modeling steps for predicting fake job postings.
